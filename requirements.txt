@@ -11,3 +11,4 @@ pypdf
 chromadb
 faiss-cpu
 arxiv
+wikipedia
