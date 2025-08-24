@@ -7,8 +7,14 @@ google-genai
 langchain-google-genai
 google-generativeai
 bs4
+beautifulsoup4
 pypdf
 chromadb
 faiss-cpu
 arxiv
 wikipedia
+groq
+langchain-groq
+sentence-transformers
+langchain-huggingface
+hf_xet
